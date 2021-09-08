@@ -17,9 +17,9 @@ Lab Instructions
   - in table format, shows the original multiplicand and multiplier, and then displays the product with a precision of 2 digits to the right of the decimal point; note that the constant PRECISION which holds the value of 2 is in the Standard Constants header file
 then shows the end of the program.
 
-- Running program example:  here Click for more options
+- Running program example:  [here](/run.txt)
 
-- Program base, with constants:  here Click for more options
+- Program base, with constants:  here 
 
 - Grading for program: appropriate implementation of steps 1, 2, 3 & 4. Show your completed project to the Lab Instructor and then upload to this assignment page
 
