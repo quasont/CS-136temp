@@ -1,0 +1,17 @@
+Multiplication Program
+======================
+
+Enter the multiplicand : 3.75
+Enter the multiplier   : 6.92
+
+===========================
+|   Multiplier Program    |
+|-------------------------|
+| Multiplicand :     3.75 |
+|-------------------------|
+| Multiplier   :     6.92 |
+|-------------------------|
+| Product      :    25.95 |
+===========================
+
+End Program
