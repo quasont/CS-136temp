@@ -8,7 +8,7 @@ Assignment Overview
 Assignment Specifications
 - See instructions below
 Lab Instructions
-- Students must include  Console_IO_Utility.c Click for more options ,  Console_IO_Utility.h Click for more options , and  StandardConstants.h Click for more options in the same directory in which they are working, along with the program shell
+- Students must include [Console_IO_Utility.c](/Console_IO_Utility.c), [Console_IO_Utility.h](/Console_IO_Utility.h), and  [StandardConstants.h](/StandardConstants.h) Click for more options in the same directory in which they are working, along with the program shell
 
 - Students must develop Steps 1, 2, 3, and 4 for finding a product, as follows:
   - starts from the given file, Wk_3_Lab_Provided.c; constants are provided and must be used
@@ -19,7 +19,7 @@ then shows the end of the program.
 
 - Running program example:  [here](/run.txt)
 
-- Program base, with constants:  here 
+- Program base, with constants:  [here](/base_program.c) 
 
 - Grading for program: appropriate implementation of steps 1, 2, 3 & 4. Show your completed project to the Lab Instructor and then upload to this assignment page
 
